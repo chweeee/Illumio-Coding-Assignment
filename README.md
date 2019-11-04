@@ -3,6 +3,8 @@ Illumio Coding Assignment 2019-2020, PCE teams
 
 Host-Based Firewall written in Python and compiled using Python3
 
+Team i'm interested in: **Platform Team**
+
 ## USER GUIDE
 ### 1) Set-up
 Clone this repository and change your directory into this folder.
